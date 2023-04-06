@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c38d8f49-9370-49b5-8b7a-46bc13a91da2" name="Changes" comment="Customer class added">
+    <list default="true" id="c38d8f49-9370-49b5-8b7a-46bc13a91da2" name="Changes" comment="Customer Factory class added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680606339282</updated>
       <workItem from="1680606339738" duration="2684000" />
-      <workItem from="1680630056464" duration="1224000" />
+      <workItem from="1680630056464" duration="1935000" />
     </task>
     <task id="LOCAL-00001" summary="Setting of the project: packages, pom file , gitignore file added">
       <created>1680606630136</created>
@@ -122,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680630237875</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Customer Factory class added">
+      <created>1680691403399</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680691403399</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setting of the project: packages, pom file , gitignore file added" />
     <MESSAGE value="Customer class added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Customer class added" />
+    <MESSAGE value="Customer Factory class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Customer Factory class added" />
   </component>
 </project>
